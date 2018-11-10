@@ -4,8 +4,8 @@ title:             Models & Measurements
 email:             mula@ceremade.dauphine.fr
 description:       Web site of the projet Emergences
 author:            olga-mula
-baseurl:           "/models-and-measurements"
-url:               "https://models-and-measures.github.io/"
+baseurl:           "/"
+url:               "https://models-and-measures.github.io"
 github_username:   olga-mula
 
 # Build settings

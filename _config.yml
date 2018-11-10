@@ -1,0 +1,17 @@
+# Using the Clean Blog theme
+
+title:             Models & Measurements
+email:             mula@ceremade.dauphine.fr
+description:       Web site of the projet Emergences
+author:            olga-mula
+baseurl:           "/models-and-measurements"
+url:               "https://models-and-measures.github.io/"
+github_username:   olga-mula
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate

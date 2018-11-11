@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Models & Measures
-description: Events
+title: Events
+description: 
 background: '/img/bg.jpg'
 ---
 

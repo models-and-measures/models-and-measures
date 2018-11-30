@@ -46,12 +46,8 @@ Both approaches lead to different yet incomplete descriptions of the system sinc
 * Antony Patera: MIT
 * Vincent Rivoirard: Univ. Paris Dauphine
 
-<div id="quarters">
- <div class="q1">
-  <h2>Test</h2>
- </div>
- <div class="q2">
-  <h2>Test 2</h2>
- </div>
+<div class="container">
+  ## Test
 </div>
+
  

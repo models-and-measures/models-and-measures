@@ -1,48 +1,24 @@
 ---
-layout: page
+layout: home
 title: Models & Measures
 background: '/img/bg.jpg'
 ---
 
-## Presentation
+## About
 
-Models & Measures is a research group financed by the Emergences Program of the Paris City Council.
-The goal is to develop approximation methods coupling Models and Data Measurements.
+In many areas of science and industry, decisions are taken based on predictions of the evolution of a physical system's state (concentration of polluants in the city, blood flux in an artery, population of neutrons in a nuclear core...). Some of these decisions may also need to be taken in real time based on continuous updates. Models & Measures is a research group financed by the **Emergences Program of the Paris City Council** which aims at developing approximation methods for estimating the state of a system.
 
-In many areas of science, industry and their applications, decisions are taken based on predictions of the state of a physical system (concentration of pollutants in the city, blood flux in an artery, population of neutrons in a nuclear core...). In addition, some of these decisions need to be taken in real time, requiring continuous updates on the system's state.
+So far, such problems have been tackled by interpolation techniques relying on data from measuring devices or by physical modeling (*e.g.*, solution of partial differential equations). Both approaches lead to different yet incomplete descriptions of the system due to its is inherent complexity. This project explores the opportunity to couple both approaches in order to complement their strengths, especially by trying to reduce the intrisic high dimensionality of the problems.
 
-State estimation has usually been done either by using data from measuring devices and then approximating with interpolation techniques, or by physical modeling, usually leading to the solution of partial differential equations.
+**Keywords:** reduced modeling, high dimensional problems, data assimilation, hemodynamics, air quality.
 
-Both approaches lead to different yet incomplete descriptions of the system since it is usually too complex to be perfectly sampled or modeled. In this project, we aim to develop approximation methods that couple both approaches in order to complement their strengths. A key role will be played by model reduction methods, which will allow to reduce the intrisic high dimensionality of the problems.
-
-## Research interests
-
-* Reduced modeling
-* High dimensional problems
-* Data assimilation
-* Applications:
-  * Hemodynamics
-  * Air quality
-
-## Collaborators
-
-* Rachida Chakir: IFSTTAR
-* Charlotte Dion: Sorbonne Universités
-* Virginie Ehrlacher: Ecole des Ponts Paristech and INRIA
-* Damiano Lombardi: INRIA
-* Olga Mula: Univ. Paris Dauphine
-* Angelina Roche: Univ. Paris Dauphine
-* Robin Ryder: Univ. Paris Dauphine
-* Julien Stoehr: Univ. Paris Dauphine
-* Julien Waeytens: IFSTTAR
-
-## Scientific committee
-
-* Pablo Bertolucci: Henri Mondor Hospital
-* Albert Cohen: Sorbonne Universités
-* Jean-Frédéric Gerbeau: INRIA
-* Marc Hoffmann: Univ. Paris Dauphine
-* Yvon Maday: Sorbonne Universités
-* Antony Patera: MIT
-* Vincent Rivoirard: Univ. Paris Dauphine
- 
+### Members 
+  * [Rachida Chakir](http://www.ifsttar.fr/menu-haut/annuaire/fiche-personnelle/personne/chakir-rachida/): Institut Français des Sciences et Technologies des Transports, de l'Aménagement et des Réseaux
+  * [Charlotte Dion](http://samm.univ-paris1.fr/DION-Charlotte-849): Sorbonne Université
+  * [Virginie Ehrlacher](https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/): École des Ponts ParisTech and INRIA Paris
+  * [Damiano Lombardi](https://team.inria.fr/reo/team-members/damiano-lombardi/): INRIA Paris
+  * [Olga Mula](https://www.ceremade.dauphine.fr/~mula/): Université Paris-Dauphine
+  * [Angelina Roche](https://www.ceremade.dauphine.fr/~roche/): Université Paris-Dauphine
+  * [Robin Ryder](https://www.ceremade.dauphine.fr/~ryder/): Université Paris-Dauphine
+  * [Julien Stoehr](https://www.ceremade.dauphine.fr/~stoehr/): Université Paris-Dauphine
+  * [Julien Waeytens](http://www.ifsttar.fr/menu-haut/annuaire/fiche-personnelle/personne/waeytens-julien/): Institut Français des Sciences et Technologies des Transports, de l'Aménagement et des Réseaux

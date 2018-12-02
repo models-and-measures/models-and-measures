@@ -1,0 +1,84 @@
+/* General setting */
+
+body {
+  text-align: justify;
+}
+
+ul {
+   margin: 20px; 
+   padding: 0;
+}
+
+.box {
+    padding: 0 30px 0 20px;
+}
+
+
+/* Column settings */
+
+#sidebar{font-size:14px;}
+
+#sidebar p.auto {
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
+#sidebar ul {
+  margin: 0;
+  padding: 20px;
+}
+
+
+#sidebar h1, h2, h3, h4 {font-size:1.4em}
+
+.row.no-gutters {
+   margin-right: 0;
+   margin-left: 0;
+}
+.row.no-gutters > [class^="col-"],
+.row.no-gutters > [class*=" col-"] {
+   padding-right: 0;
+   padding-left: 0;
+}
+
+@media screen and (min-width : 768px) {
+  .col-lg-6 {
+    float:left;
+    width:100%;
+  }
+
+  .col-lg-6 {
+    float:left;
+    width:100%;
+	padding-left:-15px;
+  }
+}
+
+@media screen and (min-width : 768px) {
+  .col-lg-8 {
+    float:left;
+    width:100%;
+  }
+
+  .col-lg-4 {
+    float:left;
+    width:100%;
+    padding-left:-15px;
+  }
+}
+
+@media screen and (min-width : 768px) {
+  .col-lg-4 {
+    float:left;
+    width:100%;
+  }
+
+  .col-lg-4 {
+    float:left;
+    width:100%;
+    padding-left:-15px;
+  }
+}
+
+

@@ -1,6 +1,6 @@
 # Using the Clean Blog theme
 
-title:             Models & Measurements
+title:             Models & Measures Website
 description:       Web site of the projet Emergences
 author:            models-and-measures
 email:             mula@ceremade.dauphine.fr
@@ -12,6 +12,9 @@ output :
 
 # Build settings
 markdown:          kramdown
+kramdown:
+  parse_block_html: true
+  parse_span_html: true
 paginate:          5
 paginate_path:     "/posts/page:num/"
 plugins:

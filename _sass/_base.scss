@@ -10,11 +10,11 @@ ul {
 }
 
 a {
-  color: #28a745;
+  color: $primary;
   @include transition-all;
   &:focus,
   &:hover {
-    color: $primary;
+    color: darken($primary, 7.5) !important;
   }
 }
 

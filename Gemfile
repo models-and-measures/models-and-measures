@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 gemspec
 
-gem "jekyll-theme-clean-blog"
+# gem "jekyll-theme-clean-blog"
 
 gem "jekyll", "~> 3.8.5"
 

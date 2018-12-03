@@ -7,8 +7,7 @@ email:             mula@ceremade.dauphine.fr
 baseurl:           ""
 url:               "https://models-and-measures.github.io/"
 github_username:   models-and-measures
-output :
- css: styles.css
+
 
 # Build settings
 markdown:          kramdown

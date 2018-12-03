@@ -9,10 +9,9 @@ ul {
    padding: 0;
 }
 
-.box {
-    padding: 0 30px 0 20px;
+a {
+  color: $primary;
 }
-
 
 /* Column settings */
 
@@ -29,8 +28,11 @@ ul {
   padding: 20px;
 }
 
-
 #sidebar h1, h2, h3, h4 {font-size:1.4em}
+
+.box {
+    padding: 0 30px 0 20px;
+}
 
 .row.no-gutters {
    margin-right: 0;

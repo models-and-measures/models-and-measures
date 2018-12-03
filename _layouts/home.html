@@ -53,7 +53,8 @@
       <div id="sidebar" class="col-lg-4 box" markdown="1">
             <br>
             <hr>
-            {% include scientific_board.md %}
+            {% capture my_include %}{% include scientific_board.md %}{% endcapture %}
+            {{ my_include | markdownify }}
       </div>
     </div>
   </div>

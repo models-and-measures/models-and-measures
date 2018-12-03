@@ -1,4 +1,13 @@
 // Bootstrap overrides for this template
+a {
+  color: $gray-900;
+  @include transition-all;
+  &:focus,
+  &:hover {
+    color: $primary;
+  }
+}
+
 .btn {
   font-size: 14px;
   font-weight: 800;

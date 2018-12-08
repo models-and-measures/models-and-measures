@@ -14,6 +14,7 @@ So far, such problems have been tackled by interpolation techniques relying on d
 
 ### Members 
   * [Rachida Chakir](http://www.ifsttar.fr/menu-haut/annuaire/fiche-personnelle/personne/chakir-rachida/): Institut Français des Sciences et Technologies des Transports, de l'Aménagement et des Réseaux
+  * [Grégoire Clarté](http://perso.eleves.ens-rennes.fr/people/Gregoire.Clarte/): Université Paris-Dauphine
   * [Charlotte Dion](http://samm.univ-paris1.fr/DION-Charlotte-849): Sorbonne Université
   * [Virginie Ehrlacher](https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/): École des Ponts ParisTech and INRIA Paris
   * [Damiano Lombardi](https://team.inria.fr/reo/team-members/damiano-lombardi/): INRIA Paris

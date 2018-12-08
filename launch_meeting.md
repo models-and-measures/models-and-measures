@@ -15,15 +15,15 @@ background: '/img/bg.jpg'
 
 ## Schedule
 
-- **09.30 - 10.00:** Welcome, presentation of the projet and its members
-- **10.00 - 10.30:** Yvon Maday (Model Reduction and Data Assimilation)
-- **10.30 - 11.00:** Pablo Bartolucci (Medical Aspects of Hemodynamics)
-- **11.00 - 11.30:** Damiano Lombardi (Numerical Schemes for Hemodynamic Problems)
-- **11.30 - 12.00:** Grégoire Clarté (Approximate Bayesian Computation)
-- **12.00 - 14.00:** Lunch
-- **14.00 - 14.30:** Rachida Chakir (Sense-City and Reconstruction of Pollution Maps)
-- **14.30 - 15.00:** Angelina Roche (Sensor Modeling)
-- **15.00 - 16.30:** Coffee and discussion about open problems and practical aspects of the project: hiring of post-docs and master students, venue of invited professors.
+- **09:30 - 10:00:** Welcome, presentation of the projet and its members
+- **10:00 - 10:30:** Yvon Maday (Model Reduction and Data Assimilation)
+- **10:30 - 11:00:** Pablo Bartolucci (Medical Aspects of Hemodynamics)
+- **11:00 - 11:30:** Damiano Lombardi (Numerical Schemes for Hemodynamic Problems)
+- **11:30 - 12:00:** Grégoire Clarté (Approximate Bayesian Computation)
+- **12:00 - 14:00:** Lunch
+- **14:00 - 14:30:** Rachida Chakir (Sense-City and Reconstruction of Pollution Maps)
+- **14:30 - 15:00:** Angelina Roche (Sensor Modeling)
+- **15:00 - 16:30:** Coffee and discussion about open problems and practical aspects of the project: hiring of post-docs and master students, venue of invited professors.
  
 
 

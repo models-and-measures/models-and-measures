@@ -1,7 +1,7 @@
 
 ## Scientific board
 
-* Pablo Bertolucci (Henri Mondor Hospital)
+* Pablo Bartolucci (Henri Mondor Hospital)
 * Albert Cohen (Sorbonne Université)
 * Jean-Frédéric Gerbeau (INRIA Paris)
 * Marc Hoffmann (Université Paris-Dauphine)
